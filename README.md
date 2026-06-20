@@ -59,38 +59,6 @@ Hangman-Game/
 
 ---
 
-## ⚙️ Installation
-
-### Step 1: Install Python
-
-Download and install Python from the official website:
-
-https://www.python.org/downloads/
-
-### Step 2: Download the Project
-
-Clone the repository using Git:
-
-```bash
-git clone https://github.com/your-username/Hangman-Game.git
-```
-
-Or download the ZIP file and extract it.
-
-### Step 3: Navigate to the Project Folder
-
-```bash
-cd Hangman-Game
-```
-
-### Step 4: Run the Application
-
-```bash
-python hangman_app.py
-```
-
----
-
 ## 🎮 How to Play
 
 1. Launch the application.
